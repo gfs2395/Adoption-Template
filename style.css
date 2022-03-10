@@ -1,0 +1,29 @@
+#bg1{
+    background: url("./assets/traub3.jpeg") 20% no-repeat;
+ 
+    
+}
+#prin{
+    background-color: #f5f5f5 ;
+}
+:root {
+    --my-color: red
+  }
+  
+  footer {
+    color: var(--my-color)
+  }
+  .card:hover{
+      opacity: 80%;
+      animation: 10s ease infinite;
+    
+  }
+  .x{
+      background-color: white;
+      transition: all 0.5s ease-in-out;
+
+  }
+.x:hover{
+    transition: all 0.4s ease-in-out;
+   background-color: grey;
+}
